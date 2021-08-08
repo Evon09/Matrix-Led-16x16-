@@ -7,7 +7,7 @@ In an image editor make a drawing of any size equal to your matrix, and then sav
 
 <h2>Second step</h2>
 
-Open the program "lcd-image-converter" va file open and select your image.
+Open the program "lcd-image-converter" go file open and select your image.
 
 <h2>Third step</h2>
 
